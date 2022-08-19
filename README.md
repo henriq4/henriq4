@@ -60,6 +60,8 @@ as web developer
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  
 </div>
 
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true&show_icons=true&theme=nord&hide=stars,issues&custom_title=My%20Github%20Stats&disable_animations=true)](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true)
+
 ## Contact me
 [![Linkedin](https://img.shields.io/badge/-Henrique%20GC-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriq4)
 [![Mail](https://img.shields.io/badge/-henriq.contact@proton.me-gray?style=flat-square&logo=protonmail)](mailto:henriq.contact@proton.me)
