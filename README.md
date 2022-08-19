@@ -9,3 +9,18 @@ Hi, my name is Henrique... Lorem Ipsum is simply dummy text of the printing and 
 - I’m currently working at 
 [Guia Comercial e Turístico](https://github.com/guiatorrinha)
 as web developer
+
+## Languages I'm comfortable
+<div style="display: flex; gap: 6px; margin-bottom: 2rem">
+  <!--JavaScript-->
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <!--TypeScript-->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <!--C-->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <!--Dart-->
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <!--Shell Script-->
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</div>
+
