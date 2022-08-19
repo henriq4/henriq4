@@ -59,3 +59,7 @@ as web developer
   <!--Git-->
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  
 </div>
+
+## Contact me
+[![Linkedin](https://img.shields.io/badge/-Henrique%20GC-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriq4)
+[![Mail](https://img.shields.io/badge/-henriq.contact@proton.me-gray?style=flat-square&logo=protonmail)](mailto:henriq.contact@proton.me)
