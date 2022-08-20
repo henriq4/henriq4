@@ -55,7 +55,7 @@ as web developer
 </div>
 
 ## Analytics
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true&show_icons=true&theme=nord&hide=stars,issues&custom_title=My%20Github%20Stats&disable_animations=true)](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true&show_icons=true&theme=nord&hide=stars&custom_title=My%20Github%20Stats&disable_animations=true)](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true)
 
 ## Contact me
 [![Linkedin](https://img.shields.io/badge/-Henrique%20GC-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriq4)
