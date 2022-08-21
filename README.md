@@ -6,9 +6,17 @@ Hi, my name is Henrique... Lorem Ipsum is simply dummy text of the printing and 
 
 - Studying Computer Science at Universidade Estadual do Norte do Paraná ([UENP](https://uenp.edu.br/))
 
-- I’m currently working at 
+- Currently working at 
 [Guia Comercial e Turístico](https://github.com/guiatorrinha)
 as web developer
+
+<div align="center">
+  <a href="./languages/pt-br/README.md">
+    <img 
+      src="https://img.shields.io/badge/-Vers%C3%A3o%20em%20Portugu%C3%AAs-blue?labelColor=ddd&label=%20"
+    >
+  </a>
+</div>
 
 ## Languages I'm comfortable
 <div style="display: flex; gap: 6px; margin-bottom: 2rem">
