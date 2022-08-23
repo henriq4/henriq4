@@ -68,6 +68,13 @@ as web developer
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true&show_icons=true&theme=nord&hide=stars&custom_title=My%20Github%20Stats&disable_animations=true)](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true)
 
 <!--START_SECTION:waka-->
+
+```text
+JSON         1 hr 22 mins    ████████████░░░░░░░░░░░░░   48.31 %
+TypeScript   42 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
+Other        19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Contact me
