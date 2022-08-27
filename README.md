@@ -70,9 +70,9 @@ as web developer
 <!--START_SECTION:waka-->
 
 ```text
-JSON         2 hrs 1 min     ██████████▓░░░░░░░░░░░░░░   42.53 %
-TypeScript   1 hr 32 mins    ████████░░░░░░░░░░░░░░░░░   32.13 %
-Other        31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+JSON         2 hrs 14 mins   ██████████▒░░░░░░░░░░░░░░   41.86 %
+TypeScript   1 hr 49 mins    ████████▓░░░░░░░░░░░░░░░░   34.07 %
+Other        34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
 ```
 
 <!--END_SECTION:waka-->
