@@ -63,9 +63,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart         1 hr 5 mins     ███████████████████████░░   91.35 %
-TypeScript   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
