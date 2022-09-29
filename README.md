@@ -4,13 +4,11 @@
 
 - Studying Computer Science at Universidade Estadual do Norte do Paraná ([UENP](https://uenp.edu.br/))
 
-- Currently working at
-  [Guia Comercial e Turístico](https://github.com/guiatorrinha)
-  as web developer
+- More at [henriq4](https://www.linkedin.com/in/henriq4/)
 
-## Languages I'm comfortable
+### Languages I'm comfortable
 
-<div style="display: flex; gap: 6px; margin-bottom: 2rem">
+<div style="display: flex; gap: 6px; margin-bottom: 2rem; max-width: 100px; max-width: 600px; flex-wrap: wrap;">
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <!--TypeScript-->
@@ -23,9 +21,9 @@
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
 
-## Techs I've used
+### Techs I've used
 
-<div style="display: flex; gap: 6px; margin-bottom: 2rem">
+<div style="display: flex; gap: 6px; margin-bottom: 2rem; max-width: 550px; flex-wrap: wrap;">
   <!--NodeJS-->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>  
   <!--ReactJS-->
@@ -56,7 +54,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  
 </div>
 
-## Analytics
+### Analytics
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true&show_icons=true&theme=nord&hide=stars&custom_title=My%20Github%20Stats&disable_animations=true)](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true)
 
@@ -68,7 +66,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## Contact me
+### Contact me
 
 [![Linkedin](https://img.shields.io/badge/-Henrique%20GC-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriq4)
 [![Mail](https://img.shields.io/badge/-henriq.contact@proton.me-gray?style=flat-square&logo=protonmail)](mailto:henriq.contact@proton.me)
