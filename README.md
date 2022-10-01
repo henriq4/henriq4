@@ -4,7 +4,7 @@
 
 - Studying Computer Science at Universidade Estadual do Norte do Paraná ([UENP](https://uenp.edu.br/))
 
-- More at [henriq4](https://www.linkedin.com/in/henriq4/)
+- More at [henriquegc.dev](https://www.henriquegc.dev)
 
 ### Languages I'm comfortable
 
