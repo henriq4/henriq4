@@ -1,16 +1,17 @@
-14 lines (9 sloc) 1.21 KB
-
 <img align="right" src="https://i.ibb.co/86Q4SxT/4911336-2517872-1-removebg-preview.png" width="240"/>
 
 ### Hello, I'm Henrique 👋
 
-lorem ipsun idolor set amet lorem ipsun idolor set amet lorem ipsun idolor set amet
+[![Linkedin](https://img.shields.io/badge/-Henrique%20GC-3333cc?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriq4)
+[![Mail](https://img.shields.io/badge/-henriq.contact@proton.me-3333cc?style=flat-square&logo=protonmail&logoColor=white)](mailto:henriq.contact@proton.me)
+[![Instagram](https://img.shields.io/badge/@henriq4-3333cc?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/henriq_4/)
+[![Portfolio](https://img.shields.io/badge/henriquegc.dev-3333cc?&style=for-the-badge")](https://www.henriquegc.dev/)
 
 - Full stack developer
 - Studing computer science at [UENP](https://uenp.edu.br)
 - More at [henriquegc.dev](https://henriquegc.dev)
 
-<details><summary><b>🛠️ Algumas linguagens e ferramentas que eu uso</b></summary>
+<details><summary><b>🛠️ Some languages and tools that I use</b></summary>
 <p align="left"> 
 <p></p>
 
@@ -92,3 +93,6 @@ No activity tracked
 <!--END_SECTION:waka-->
 </p>
 </details>
+<br />
+
+“Vi veri veniversum vivus vici.” - V
