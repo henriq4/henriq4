@@ -1,60 +1,88 @@
-# Henrique GC
+<img align="right" src="https://i.ibb.co/86Q4SxT/4911336-2517872-1-removebg-preview.png" width="240"/>
+
+### Hello, I'm Henrique 👋
+
+[![Linkedin](https://img.shields.io/badge/-Henrique%20GC-3333cc?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriq4)
+[![Mail](https://img.shields.io/badge/-henriq.contact@proton.me-3333cc?style=flat-square&logo=protonmail&logoColor=white)](mailto:henriq.contact@proton.me)
+[![Instagram](https://img.shields.io/badge/@henriq4-3333cc?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/henriq_4/)
+[![Portfolio](https://img.shields.io/badge/henriquegc.dev-3333cc?&style=for-the-badge")](https://www.henriquegc.dev/)
+
+Passionate about innovation and learning, I am and always will be in search of knowledge. I'm a technology lover. I really love everything I do.
 
 - Full stack developer
+- Studing computer science at [UENP](https://uenp.edu.br)
+- More at [henriquegc.dev](https://henriquegc.dev)
 
-- Studying Computer Science at Universidade Estadual do Norte do Paraná ([UENP](https://uenp.edu.br/))
+<details><summary><b>🛠️ Some languages and tools that I use</b></summary>
+<p align="left"> 
+<p></p>
 
-- More at [henriq4](https://www.linkedin.com/in/henriq4/)
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+alt="Javascript" width="44" height="44"/> 
+</a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+alt="Typescript" width="44" height="44"/> 
+</a> 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+alt="C" width="44" height="44"/> 
+</a> 
+<a href="https://dart.dev/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" 
+alt="Dart" width="44" height="44"/> 
+</a>
+<a href="https://pt.wikipedia.org/wiki/Bash" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" 
+alt="Bash" width="44" height="44"/> 
+</a> 
+<a href="https://nodejs.org/en/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+alt="Node.js" width="44" height="44"/> 
+</a> 
+<a href="https://pt-br.reactjs.org/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+alt="React.js" width="44" height="44"/> 
+</a> 
+<a href="https://expressjs.com/pt-br/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+alt="Express.js" width="44" height="44"/> 
+</a> 
+<a href="https://nextjs.org/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+alt="Next.js" width="44" height="44"/> 
+</a> 
+<a href="https://nestjs.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" 
+alt="Nest.js" width="44" height="44"/> 
+</a> 
+<a href="https://www.docker.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+alt="Docker" width="44" height="44"/> 
+</a> 
+<a href="https://www.postgresql.org/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+alt="PostgreSql" width="44" height="44"/> 
+</a> 
+<a href="https://tailwindcss.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+alt="TailwindCss" width="44" height="44"/> 
+</a> 
+<a href="https://aws.amazon.com/pt/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" 
+alt="Aws" width="44" height="44"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+alt="Git" width="44" height="44"/> 
+</a> 
+</p>
+</details>
 
-### Languages I'm comfortable
-
-<div style="display: flex; gap: 6px; margin-bottom: 2rem; max-width: 100px; max-width: 600px; flex-wrap: wrap;">
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <!--TypeScript-->
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <!--C-->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <!--Dart-->
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <!--Shell Script-->
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</div>
-
-### Techs I've used
-
-<div style="display: flex; gap: 6px; margin-bottom: 2rem; max-width: 550px; flex-wrap: wrap;">
-  <!--NodeJS-->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>  
-  <!--ReactJS-->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  
-  <!--ExpressJS-->
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
-  <!--NextJS-->
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>  
-  <!--NestJS-->
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> 
-  <!--Docker-->
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>  
-  <!--Prisma-->
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>  
-  <!--PostgreSQL-->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
-  <!--TailwindCSS-->
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
-  <!--Jest-->
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>  
-  <!--ChakraUI-->
-  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>  
-  <!--Flutter-->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>   
-  <!--AWS-->
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>  
-  <!--Git-->
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>  
-</div>
-
-### Analytics
+<details><summary><b>📊 Analytics</b></summary>
+<p align="left">
+<p></p>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true&show_icons=true&theme=nord&hide=stars&custom_title=My%20Github%20Stats&disable_animations=true)](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true)
 
@@ -65,8 +93,8 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+</p>
+</details>
+<br />
 
-### Contact me
-
-[![Linkedin](https://img.shields.io/badge/-Henrique%20GC-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriq4)
-[![Mail](https://img.shields.io/badge/-henriq.contact@proton.me-gray?style=flat-square&logo=protonmail)](mailto:henriq.contact@proton.me)
+“Vi veri veniversum vivus vici.” - V
