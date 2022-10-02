@@ -7,6 +7,8 @@
 [![Instagram](https://img.shields.io/badge/@henriq4-3333cc?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/henriq_4/)
 [![Portfolio](https://img.shields.io/badge/henriquegc.dev-3333cc?&style=for-the-badge")](https://www.henriquegc.dev/)
 
+Passionate about innovation and learning, I am and always will be in search of knowledge. I'm a technology lover. I really love everything I do.
+
 - Full stack developer
 - Studing computer science at [UENP](https://uenp.edu.br)
 - More at [henriquegc.dev](https://henriquegc.dev)
