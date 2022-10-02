@@ -77,8 +77,8 @@ alt="Git" width="44" height="44"/>
 </details>
 
 <details><summary><b>📊 Analytics</b></summary>
-<br />
 <p align="left">
+<p></p>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true&show_icons=true&theme=nord&hide=stars&custom_title=My%20Github%20Stats&disable_animations=true)](https://github-readme-stats.vercel.app/api?username=henriq4&count_private=true)
 
