@@ -11,8 +11,9 @@ lorem ipsun idolor set amet lorem ipsun idolor set amet lorem ipsun idolor set a
 - More at [henriquegc.dev](https://henriquegc.dev)
 
 <details><summary><b>🛠️ Algumas linguagens e ferramentas que eu uso</b></summary>
-<br />
 <p align="left"> 
+<p></p>
+
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 alt="Javascript" width="44" height="44"/> 
