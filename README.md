@@ -89,10 +89,11 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 32 mins   ██████████████░░░░░░░░░░░   56.57 %
-Markdown     1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Python       56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-Other        39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+TypeScript   6 hrs 45 mins   ███████████████░░░░░░░░░░   59.72 %
+Python       1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+JSON         1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+Markdown     49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Other        31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->
