@@ -89,9 +89,8 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 36 mins   ██████████████████████▓░░   90.61 %
-C#           40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TypeScript   2 hrs 58 mins   ████████████████████▓░░░░   82.13 %
+C#           38 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
 ```
 
 <!--END_SECTION:waka-->
