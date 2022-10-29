@@ -89,7 +89,10 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML         8 mins          ███████████████████▒░░░░░   77.90 %
+Git Config   2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
