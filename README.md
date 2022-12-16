@@ -89,8 +89,7 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 2 mins     ███████████████████████▒░   92.92 %
-C            4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+C   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
