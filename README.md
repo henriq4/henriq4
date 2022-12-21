@@ -89,8 +89,7 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```text
-C          4 mins          █████████████████████░░░░   83.96 %
-Markdown   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
