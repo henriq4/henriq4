@@ -89,7 +89,7 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
