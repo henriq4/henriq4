@@ -88,8 +88,12 @@ alt="Git" width="44" height="44"/>
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
+```txt
+C             2 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   27.63 %
+Svelte        1 hr 58 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.88 %
+Dart          1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
+TypeScript    57 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+HTML          19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->
