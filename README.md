@@ -89,11 +89,11 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              5 hrs 34 mins   ███████████░░░░░░░░░░░░░░   43.88 %
-JavaScript        3 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-Java              1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-C                 36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Java Properties   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Dart              5 hrs 34 mins   ███████████▓░░░░░░░░░░░░░   46.29 %
+JavaScript        3 hrs 16 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+Java              1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
+Java Properties   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+YAML              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
 ```
 
 <!--END_SECTION:waka-->
