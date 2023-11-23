@@ -89,10 +89,7 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         7 mins          ███████████████████████▒░   93.14 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
