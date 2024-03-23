@@ -89,11 +89,11 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```txt
-Blade Template    8 hrs 37 mins   █████████████░░░░░░░░░░░░   51.37 %
-PHP               6 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   40.71 %
-TypeScript        26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-JavaScript        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Java Properties   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Blade Template    8 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.80 %
+PHP               6 hrs 42 mins   █████████▓░░░░░░░░░░░░░░░   38.15 %
+TypeScript        42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+JSON              41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Dart              35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
