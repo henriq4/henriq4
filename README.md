@@ -89,11 +89,11 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       3 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
-JavaScript       2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-JSON             2 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-Vue.js           2 hrs 4 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-PHP              1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+TypeScript       6 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.01 %
+Vue.js           3 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+JavaScript       2 hrs 46 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+PHP              1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+JSON             1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
 ```
 
 <!--END_SECTION:waka-->
