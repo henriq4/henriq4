@@ -89,11 +89,11 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 8 hrs 17 mins   █████████████████████░░░░   84.63 %
-YAML                       1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-Bash                       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Markdown                   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Nginx configuration file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TypeScript                 4 hrs 28 mins   █████████████████▓░░░░░░░   70.92 %
+YAML                       1 hr 34 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.84 %
+Bash                       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Markdown                   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Other                      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
