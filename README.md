@@ -89,11 +89,7 @@ alt="Git" width="44" height="44"/>
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         26 mins         █████████████░░░░░░░░░░░░   51.40 %
-TypeScript   20 mins         ██████████░░░░░░░░░░░░░░░   39.60 %
-Bash         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
